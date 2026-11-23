@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#1F3A2E"/>
+  <g transform="translate(0, 6)" stroke="#FAF7F2" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Baseline -->
+    <line x1="7" y1="45" x2="57" y2="45"/>
+    <!-- Outer gable -->
+    <path d="M 7 45 V 26 L 25 8 L 32.5 15.5"/>
+    <!-- Inner gable -->
+    <path d="M 12 45 V 28 L 25 15 L 30 20"/>
+    <!-- Overlapping leaf / teardrop -->
+    <path d="M 38.5 6 C 52.5 24, 50.5 45, 38.5 45 C 26.5 45, 24.5 24, 38.5 6 Z"/>
+    <!-- Cross inside leaf -->
+    <line x1="38.5" y1="15.5" x2="38.5" y2="45"/>
+    <line x1="33.5" y1="24" x2="43.5" y2="24"/>
+    <!-- Lower-right annex shoulder -->
+    <path d="M 48.5 31.5 L 57 39.5 V 45"/>
+  </g>
+</svg>
