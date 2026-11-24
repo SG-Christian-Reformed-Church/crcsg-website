@@ -14,8 +14,8 @@
  */
 window.CRCSG_CONFIG = {
   // Church Identity
-  churchName: "Christian Reformed Church of South Gippsland",
-  shortName: "CRCSG",
+  churchName: "South Gippsland Christian Reformed Church",
+  shortName: "SGCRC",
   tagline: "...reaching the lost for Christ.",
   abn: "52 849 453 668",
   abnRaw: "52849453668",
