@@ -724,6 +724,10 @@ li + li {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
+.cards-grid--4 {
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
 .card {
   background-color: var(--bg-card);
   border: 1px solid var(--border-warm);
